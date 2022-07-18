@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **RaiSaugat/raisaugat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Stuff I use day to day
