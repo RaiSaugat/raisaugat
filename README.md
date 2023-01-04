@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raisaugat)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raisaugat)](https://git.io/streak-stats)
 
 
 ### Stuff I use day to day
