@@ -13,7 +13,7 @@
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisaugat&layout=compact" />
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=raisaugat)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=raisaugat&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
