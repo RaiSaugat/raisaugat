@@ -6,8 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raisaugat)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raisaugat)](https://git.io/streak-stats)
-
 ### Stuff I use day to day
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
