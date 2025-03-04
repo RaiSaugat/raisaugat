@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**RaiSaugat/raisaugat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![](https://gitwar.herokuapp.com/badge?username=raisaugat)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raisaugat)](https://github.com/ryo-ma/github-profile-trophy)
