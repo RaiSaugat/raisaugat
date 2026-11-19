@@ -5,7 +5,6 @@
 8+ years building large web apps with **React, Next.js and TypeScript**, from component libraries and front-end architecture to the Node.js APIs and databases behind them. I care about web performance, clean architecture and shipping features people actually use.
 
 - 🏢 Senior Software Engineer at **CodingMountain** (Aug 2022 – present)
-- 🧑‍🏫 Leading a team of 3 on **Basecamp**, an in-house workplace platform for leave/WFH, projects, and a Slack bot
 - ⚡ 30% faster initial page response · up to 50% fewer re-renders · up to 40% lower API latency
 - 🤖 Building LLM-powered and real-time (Socket.io) features
 - 🌐 [raisaugat.com.np](https://raisaugat.com.np) · [LinkedIn](https://linkedin.com/in/raisaugat)
