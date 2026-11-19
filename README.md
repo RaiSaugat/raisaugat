@@ -10,8 +10,6 @@
 - 🤖 Building LLM-powered and real-time (Socket.io) features
 - 🌐 [raisaugat.com.np](https://raisaugat.com.np) · [LinkedIn](https://linkedin.com/in/raisaugat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=raisaugat)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Languages
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
